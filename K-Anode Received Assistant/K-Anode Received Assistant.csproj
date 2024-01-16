@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Control\ReceivedView.cs" />
     <Compile Include="Model\KAnode.cs" />
     <Compile Include="Model\Location.cs" />
     <Compile Include="View\MainForm.cs">
